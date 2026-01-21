@@ -1,0 +1,20 @@
+# Ticket ID: 001
+# Date: 2026-01-21
+# User: John D.
+# Department: Sales
+# Issue Category: Network Connectivity
+
+## Issue Description
+User reports no internet access on workstation.
+
+## Troubleshooting Steps
+1. Verified Ethernet cable connection
+2. Checked IP address using ipconfig
+3. Confirmed gateway reachability with ping
+4. Renewed DHCP lease
+
+## Resolution
+Network connection restored after DHCP renewal.
+
+## Status
+Resolved
