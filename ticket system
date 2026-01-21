@@ -1,0 +1,10 @@
+helpdesk-ticket-system/
+ ├── README.md
+ ├── ticket-template.md
+ ├── tickets/
+ │    ├── ticket-001.md
+ │    ├── ticket-002.md
+ │    ├── ticket-003.md
+ └── troubleshooting-guides/
+      ├── no-internet.md
+      ├── password-reset.md
