@@ -1,0 +1,19 @@
+# Ticket ID: 003
+# Date: 2026-01-21
+# User: Alex R.
+# Department: Finance
+# Issue Category: Hardware
+
+## Issue Description
+Network printer not responding.
+
+## Troubleshooting Steps
+1. Verified printer power and network cable
+2. Pinged printer IP
+3. Restarted printer service
+
+## Resolution
+Printer service restarted and printing restored.
+
+## Status
+Resolved
